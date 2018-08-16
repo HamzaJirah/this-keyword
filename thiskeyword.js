@@ -13,3 +13,4 @@ comments.print = function(){
 
 
 //write to the console the function
+console.log(comments.print());
