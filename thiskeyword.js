@@ -5,3 +5,8 @@ var comments = {};
 comments.data = ["html", "css", "javascript"];
 
 //write a function by including the "this" keyword
+comments.print = function(){
+	this.data.forEach(function(el){
+		console.log(el);
+	});
+}
