@@ -10,3 +10,6 @@ comments.print = function(){
 		console.log(el);
 	});
 }
+
+
+//write to the console the function
