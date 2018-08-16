@@ -2,4 +2,4 @@
 var comments = {};
 
 
-comments.data = ["hamza", "jirah", "ibrahim"];
+comments.data = ["html", "css", "javascript"];
